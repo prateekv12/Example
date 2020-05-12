@@ -4,6 +4,11 @@ import "fmt"
 
 func main() {
 	fmt.Println("lets go! Vamos!")
+	foo()
+}
+
+func foo() {
+	fmt.Println("I am in foo")
 }
 
 //control flow:
