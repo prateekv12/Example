@@ -1,3 +1,5 @@
-module example.com/user/hello
+module example/username/repo
 
 go 1.14
+
+require rsc.io/quote v1.5.2
