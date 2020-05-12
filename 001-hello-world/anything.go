@@ -12,8 +12,12 @@ func main() {
 			fmt.Println(i)
 		}
 	}
+	bar()
 }
 
+func bar() {
+	fmt.Println("exited control flow")
+}
 func foo() {
 	fmt.Println("I am in foo")
 }
