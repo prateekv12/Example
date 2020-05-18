@@ -3,6 +3,10 @@ package main
 import "fmt"
 
 func main() {
+
+	//SHORT DECLARATION OPERATOR
+	//DECLARE A VARIABLE AND ASSIGN A VALUE
+
 	x := 45
 	fmt.Println(x)
 	x = 99
