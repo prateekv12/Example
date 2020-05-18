@@ -11,4 +11,6 @@ func main() {
 	fmt.Println(y)
 	z := "Bond, James"
 	fmt.Println(z)
+	a := 44 - 33
+	fmt.Println(a)
 }
