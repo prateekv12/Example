@@ -17,7 +17,7 @@ func main() {
 	y = 911
 	fmt.Printf("%#x\n", y)
 	fmt.Printf("%#x\t%b\t%x\n", y, y, y)
-
-	s:= fmt.Sprintf("%#x\t%b\t%x\n", y, y, y)
+	//	Printing the output to a string below
+	s := fmt.Sprintf("%#x\t%b\t%x\n", y, y, y)
 	fmt.Println(s)
 }
