@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//BOOLEAN TYPE AND LOGICAL OPERATION WITH BOOL OUTPUT
 var x bool
 
 func main() {
